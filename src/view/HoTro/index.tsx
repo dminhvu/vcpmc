@@ -7,6 +7,7 @@ const Playlist = () => {
 
   return (
     <div className="playboy">
+      <h1>Ho Tro</h1>
       <Sidebar />
     </div>
   );
